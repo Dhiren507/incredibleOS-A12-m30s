@@ -5,8 +5,7 @@
 ## Overview
 Samsung may have discontinued software support for the Galaxy M30S, but that doesn’t mean the journey has to end! **Incredible OS** brings **One UI 4.1.1** to the **Samsung Galaxy M30S**, years after its official software updates stopped. Built from the **Samsung Galaxy A51 firmware**, this ROM ensures that your device stays up-to-date with the latest features, optimizations, and improvements.
 
-✨ **Incredible OS** ✨  
-                   **For**  
+✨ **Incredible OS** ✨   
 📱 **Samsung Galaxy M30S**
 
 👤 **Owner:** @Dhiren9611  
