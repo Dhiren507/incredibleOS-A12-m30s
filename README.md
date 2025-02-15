@@ -1,80 +1,100 @@
-# Incredible OS Android 12  Based On Samsungs OneUI 4.1.1
+# Incredible OS - Android 12 (One UI 4.1.1) for Samsung Galaxy M30S
+
 <p align="center">
   <img src="images/Banner.png" alt="Incredible OS Banner" width="100%">
 </p>
-## Overview
-Samsung may have discontinued software support for the Galaxy M30S, but that doesn’t mean the journey has to end! **Incredible OS** brings **One UI 4.1.1** to the **Samsung Galaxy M30S**, years after its official software updates stopped. Built from the **Samsung Galaxy A51 firmware**, this ROM ensures that your device stays up-to-date with the latest features, optimizations, and improvements.
 
-✨ **Incredible OS** ✨   
+## Overview
+
+Samsung may have abandoned software support for the Galaxy M30S, but that doesn't mean this device has to be left behind. **Incredible OS** breathes new life into the **Samsung Galaxy M30S** by bringing **One UI 4.1.1**, packed with modern features, optimizations, and improvements. This ROM is based on the **Samsung Galaxy A51 firmware**, ensuring a fast, smooth, and stable experience that surpasses stock performance.
+
+✨ **Incredible OS** ✨  
 📱 **Samsung Galaxy M30S**
 
-👤 **Owner:** @Dhiren9611  
-⚙️ **Base:** Galaxy A51 (ONE UI 4.1.1)
-
-## ⚠️ WARNING ⚠️
-NO ONE IS ALLOWED TO USE OR REUPLOAD THIS ROM WITHOUT PERMISSION!!
-
-## 📦 Download
-Coming Soon(Do 25 Stars on all my repos and get the download link as soon as it reaches 25 stars)
-
-## 💬 Version
-v1-Final
-
-## 🏆 One UI 4 is Here!
-Despite **years after its release and Samsung officially discontinuing updates for the M30S**, I have made **One UI 4.1.1 possible on this device!** This ROM is a labor of love, keeping the M30S relevant with modern software, improved performance, and additional customization options.
-
-## 🌟 Features & Enhancements
-- **Smooth & Optimized Experience** – Runs faster and smoother than stock firmware.
-- **Debloated Under Moderation** – Removes unnecessary apps without losing essential functions.
-- **A51 Port (A515FXXU5FVE2, Spoofed as A50)** – Fully functional One UI 4.1.1 experience.
-- **Flagship Features Included** – Enjoy premium Samsung features on your M30S.
-- **Pre-rooted with KSU-Next** – Advanced root management for power users.
-- **Resolution Changer in Display Settings** – Customize your screen resolution.
-- **Mint Kernel Integration** – Enhanced performance and stability.
-- **Protect Battery Toggle in QS Panel** – Helps prolong battery lifespan.
-- **Fresh Pre-loaded Wallpapers** – A visually refreshing UI.
-- **Wi-Fi 6e Icon Instead of Regular Wi-Fi Icon** – Modernized connectivity indicators.
-- **Updated Samsung System Apps** – Bringing the latest app versions.
-- **Screenshot Toggle in QS Panel** – Quick screenshot access.
-- **Video Brightness & Extra Dim Modes** – More control over your display settings.
-- **AppLock in Advanced Settings & Secure Folder** – Improved security features.
-- **Photo Remaster in Gallery** – AI-powered photo enhancements.
-- **Maybe more... Install the Rom and Check out By Yourself**
-
-## 🐞 Bugs
-- **None!!** 🚀  
-- If you find any, let me know!
-
-## Device Compatibility
-**Supported Device:** Samsung Galaxy M30S (SM-M307F)  
-**Base Vendor:** Samsung Galaxy A51 (VNDK31)  
-**Stock Vendor:** Samsung Galaxy M30S (VNDK30)  
-
-## 📓 Flashing Guide
-👨🏻‍💻 **XDA:** [Soon]  
-📽 **ROM Screenshots:** [Soon]
-
-### Prerequisites
-- Ensure your device's bootloader is unlocked.
-- A custom recovery (TWRP/OrangeFox) must be installed.
-- Back up all important data before proceeding.
-
-### Installation Steps
-1. **Download the ROM** from the provided link.
-2. **Reboot into recovery mode** (TWRP/OrangeFox).
-3. **Wipe dalvik , Cache , Data, Product, System, and Vendor partitions** 
-4. **Flash the Incredible OS ZIP file**.
-5. **Reboot the device** and enjoy One UI 4.1.1 on your M30S!
-
-## ©️ Credits
-- **@TenSeventy7** for Fresh Services and Mint Kernel.
-- **@sundram21** for making Mint Kernel for M30S.
-- **@Dhiren9611 (aka Me)** for porting it and making One UI 4 and later possible for M30S.
-
-## 🤝🏻 Join Us
-📢 **Update Channel:** [https://t.me/incredibleOSUpdates](https://t.me/incredibleOSUpdates)  
-💬 **Support Group:** [https://t.me/incredibleOSChat](https://t.me/incredibleOSChat)
+👤 **Owner & Developer:** @Dhiren9611  
+⚙️ **Base:** Galaxy A51 (One UI 4.1.1)  
 
 ---
-Enjoy **Incredible OS** – Keeping the M30S alive with **One UI 4.1.1!** 🚀
+
+## ⚠️ WARNING ⚠️
+🚫 **Unauthorized use or re-uploading of this ROM is strictly prohibited!** 🚫
+
+---
+
+## 📦 Download
+Coming soon! Be among the first to get it by starring my GitHub repositories (25 stars unlocks early access!).
+
+---
+
+## 🌟 Features & Enhancements
+- **One UI 4.1.1 Experience** – Fully functional, smooth, and modern UI.
+- **A51 Port (A515FXXU5FVE2, Spoofed as A50)** – Seamless integration for better compatibility.
+- **All essential One UI 4.1 features** – The latest refinements and features from Samsung.
+- **Flagship features unlocked** – Enjoy premium Samsung features usually reserved for high-end models.
+- **Debloated but balanced** – Removed unnecessary system apps while keeping essential functionality.
+- **Pre-rooted with KSU-Next** – Power users get full control right out of the box.
+- **Resolution Changer in Display Settings** – Customize screen resolution on demand.
+- **Mint Kernel for Performance** – Improved speed, stability, and efficiency.
+- **Battery Protection Toggle in QS Panel** – Extend battery lifespan with a single tap.
+- **Fresh Pre-loaded Wallpapers** – A refreshed and modern look.
+- **Wi-Fi 6e Icon Instead of Regular Wi-Fi Icon** – A more modern network indicator.
+- **Updated Samsung System Apps** – Enjoy the latest Samsung applications.
+- **Screenshot Toggle in QS Panel** – Quickly capture what's on your screen.
+- **Video Brightness & Extra Dim Modes** – More control over your display brightness.
+- **AppLock in Advanced Settings** – Added security for your private apps.
+- **Secure Folder Fully Functional** – Store sensitive data with confidence.
+- **Photo Remaster in Gallery** – AI-powered photo enhancements built-in.
+- **Enabled Many Useful CSC Tweaks** – Additional system optimizations and features.
+- **5G Data Icon Instead of LTE or 4G** – Visual improvements for network connectivity.
+- **VoLTE Icon Indicator** – Easily check VoLTE status.
+- **Patched Bluetooth Library** – Improved Bluetooth connectivity.
+- **Call Recording Enabled for Most Regions** – Record calls without regional restrictions.
+- **And Much More!** – Install the ROM and discover all the enhancements yourself!
+
+---
+
+## 🐞 Known Issues
+- **None reported so far.** 🚀 If you find any, let me know!
+
+---
+
+## 📱 Device Compatibility
+- **Supported Device:** Samsung Galaxy M30S (**SM-M307F**)
+- **Base Vendor:** Samsung Galaxy A51 (**VNDK31**)
+- **Stock Vendor:** Samsung Galaxy M30S (**VNDK30**)
+
+---
+
+## 📓 Flashing Guide
+👨🏻‍💻 **XDA Thread:** [Coming Soon]  
+📽 **Screenshots:** [Coming Soon]
+
+### Prerequisites
+- **Unlocked Bootloader Required** – Make sure your bootloader is unlocked.
+- **Custom Recovery Required** – Install TWRP or OrangeFox.
+- **Backup Your Data** – Prevent data loss by backing up important files.
+
+### Installation Steps
+1. **Download the ROM** (once available).
+2. **Reboot into recovery mode** (TWRP/OrangeFox).
+3. **Wipe Dalvik, Cache, Data, Product, System, and Vendor partitions.**
+4. **Flash the Incredible OS ZIP file.**
+5. **Reboot & enjoy One UI 4.1.1 on your M30S!**
+
+---
+
+## 🏆 Credits
+- **@TenSeventy7** for Fresh Services and Mint Kernel.
+- **@sundram21** for Mint Kernel for M30S.
+- **@Dhiren9611 (Me!)** for porting One UI 4.1.1 to the M30S and keeping this device alive.
+
+---
+
+## 📢 Community & Support
+📢 **Update Channel:** [https://t.me/incredibleOSUpdates](https://t.me/incredibleOSUpdates)  
+💬 **Support Group:** [https://t.me/incredibleOSChat](https://t.me/incredibleOSChat)  
+
+---
+
+🚀 **Experience the future of the M30S with Incredible OS – because great devices deserve great software!** 🚀
 
