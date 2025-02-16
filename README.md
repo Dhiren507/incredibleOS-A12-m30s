@@ -66,8 +66,8 @@ IncredibleOS is Finally Available for Download [Click Here](https://drive.google
 ---
 
 ## 📓 Flashing Guide
-👨🏻‍💻 **XDA Thread:** [Coming Soon]  
-📽 **Screenshots:** [Coming Soon]
+👨🏻‍💻 **XDA Thread:** [Click Here](https://xdaforums.com/t/rom-12-oneui-4-1-1-stable-incredible-os-for-m30s.4718976/) Also Dont Forget to Hit the Thanks Button on XDA Forums.
+📽 **Screenshots:** [Click here for Somw Spoilers](https://t.me/incredibleOSChat/12)
 
 ### Prerequisites
 - **Unlocked Bootloader Required** – Make sure your bootloader is unlocked.
