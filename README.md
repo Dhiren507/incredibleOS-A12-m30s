@@ -22,7 +22,7 @@ Samsung may have abandoned software support for the Galaxy M30S, but that doesn'
 ---
 
 ## 📦 Download
-Coming soon! Be among the first to get it by starring my GitHub repositories (25 stars unlocks early access!).
+IncredibleOS is Finally Available to Download [Click Here](https://drive.google.com/file/d/1q99CK4kRSzJuu4FVQ4kmQWi6WLDLg3vM/view?usp=sharing)
 
 ---
 
